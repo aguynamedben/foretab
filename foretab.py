@@ -1,5 +1,13 @@
 #!/usr/bin/python
 
+# -*- coding: utf-8 -*-
+#
+# foretab.py
+#
+# Â© 2009Ben Standefer. All rights reserved.
+# Author: Ben Standefer <benstandefer@gmail.com>
+#
+
 from datetime import datetime, timedelta
 
 def parse_field(entry_type, text):

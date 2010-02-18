@@ -1,8 +1,6 @@
 #!/usr/bin/python
 
 from datetime import datetime, timedelta
-import calendar
-c = calendar.Calendar()
 
 def parse_field(entry_type, text):
     full_ranges = {

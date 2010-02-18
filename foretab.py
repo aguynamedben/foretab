@@ -4,7 +4,7 @@
 #
 # foretab.py
 #
-# Â© 2009Ben Standefer. All rights reserved.
+# Copyright 2009 Ben Standefer. All rights reserved.
 # Author: Ben Standefer <benstandefer@gmail.com>
 #
 
